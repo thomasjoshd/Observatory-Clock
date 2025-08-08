@@ -22,7 +22,7 @@ $ bash Observatory-Clock.sh
 On Windows I've included a .bat file, but you may need to modify the anaconda installation path, and the path to where you want to store Observatory-Clock.py
 
 # Detailed Description of reading the clock
-The 24 hour display has black numbers on the outside for local time.
+The 24 hour display has black numbers on the outside for local time.  There is a screenshot of the Main Window included with the files, along with a screenshot of the settings window.
 
 The blue numbers on the inner ring change on their own so that the meridian (indicated by the hour hand) is pointing to both the current right ascension of the meridian (local sidereal time) and the local civil time.
 
