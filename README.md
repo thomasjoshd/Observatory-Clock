@@ -19,7 +19,7 @@ It can also be launched by using the included customizable shell (bash/sh) scrip
 
 $ bash Observatory-Clock.sh
 
-On Windows I've included a .bat file, but you may need to modify the anaconda installation path, and the path to where you want to store Observatory-Clock.py
+On Windows I've included a .bat file, but you may need to modify the anaconda installation path, and the path to where you want to store Observatory-Clock.py.  Once you do that, you can double click the file to launch the clock.
 
 # Detailed Description of reading the clock
 The 24 hour display has black numbers on the outside for local time.  There is a screenshot of the Main Window included with the files, along with a screenshot of the settings window.
