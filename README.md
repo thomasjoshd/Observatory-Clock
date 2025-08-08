@@ -1,7 +1,7 @@
 # Observatory-Clock
 A 24 hour analog/digital observatory clock.  It featuress local sidereal time, Greenwich sidereal time, UT, sunrise, sunset, percnet moon illumination and both Julian Date and MJD.  The analog display also shows the current right ascension of solar system objects.
 
-The display name, fontsize, window size, and observatory location are all customizable.  Once you change and set the new observatory location it will create a settings.par file it will read each time it launches to remember your settings. It should work on Linux/Mac/Windows (it has for me!)
+The display name, fontsize, window size, and observatory location are all customizable.  Once you change and set the new observatory location it will create a settings.par file it will read each time it launches to remember your settings.  NOTE it must have correct latitude and longitude for it to correctly calculate the sunrise/sunset times. It should work on Linux/Mac/Windows (it has for me!)
 
 # Installation
 Python 3 is required.  And tnen you need to install the required packages:
